@@ -14,7 +14,7 @@ To run the code, you need to have the following installed:
 
 # Clone this repository to your local machine:
 
-git clone https://github.com/your-username/fashion-mnist-cnn.git
+https://github.com/PAUL-byte-spec/Fashion-MNIST-Classification.git
 Navigate to the project directory:
 
 cd fashion-mnist-cnn
