@@ -15,7 +15,8 @@ To run the code, you need to have the following installed:
 # Clone this repository to your local machine:
 
 https://github.com/PAUL-byte-spec/Fashion-MNIST-Classification.git
-Navigate to the project directory:
+
+# Navigate to the project directory:
 
 cd fashion-mnist-cnn
 Run the Python script:
